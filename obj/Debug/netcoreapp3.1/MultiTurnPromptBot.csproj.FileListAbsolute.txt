@@ -1,0 +1,173 @@
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/appsettings.Development.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/new-rg-parameters.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/preexisting-rg-parameters.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/template-with-new-rg.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/template-with-preexisting-rg.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.exe
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/appsettings.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.deps.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.runtimeconfig.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.runtimeconfig.dev.json
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.pdb
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Dialogs.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Configuration.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Connector.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Schema.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Streaming.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Definitions.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.Choice.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.DateTime.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.Number.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.NumberWithUnit.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csprojAssemblyReference.cache
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.AssemblyInfoInputs.cache
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.AssemblyInfo.cs
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cs
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cache
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csproj.CopyComplete
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/staticwebassets/MultiTurnPromptBot.StaticWebAssets.Manifest.cache
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/staticwebassets/MultiTurnPromptBot.StaticWebAssets.xml
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.dll
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.pdb
+F:/botbuilder-samples/samples/csharp_dotnetcore/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.genruntimeconfig.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csprojAssemblyReference.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.AssemblyInfoInputs.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.AssemblyInfo.cs
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.pdb
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/new-rg-parameters.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/preexisting-rg-parameters.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/template-with-new-rg.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/DeploymentTemplates/template-with-preexisting-rg.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.exe
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.deps.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.runtimeconfig.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.runtimeconfig.dev.json
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.pdb
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Dialogs.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Configuration.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Connector.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Schema.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Bot.Streaming.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Definitions.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.Choice.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.DateTime.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.Number.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csproj.CopyComplete
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/staticwebassets/MultiTurnPromptBot.StaticWebAssets.Manifest.cache
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/staticwebassets/MultiTurnPromptBot.StaticWebAssets.xml
+C:/Users/user/Documents/Projects/CSC299 MHA Work/MHATech/05.multi-turn-prompt/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.genruntimeconfig.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csprojAssemblyReference.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.AssemblyInfoInputs.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.AssemblyInfo.cs
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cs
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.pdb
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/DeploymentTemplates/new-rg-parameters.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/DeploymentTemplates/preexisting-rg-parameters.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/DeploymentTemplates/template-with-new-rg.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/DeploymentTemplates/template-with-preexisting-rg.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.deps.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.runtimeconfig.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.runtimeconfig.dev.json
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/MultiTurnPromptBot.pdb
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.ApplicationInsights.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.ApplicationInsights.AspNetCore.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AI.DependencyCollector.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AI.EventCounterCollector.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AI.PerfCounterCollector.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AI.WindowsServer.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.ApplicationInsights.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Dialogs.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Integration.ApplicationInsights.Core.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Configuration.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Connector.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Schema.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Bot.Streaming.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DiagnosticAdapter.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.ApplicationInsights.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Definitions.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.Choice.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.DateTime.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.Number.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/runtimes/win7-x64/native/sni.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/runtimes/win7-x86/native/sni.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard1.3/System.Data.SqlClient.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard1.3/System.Data.SqlClient.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.csproj.CopyComplete
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/staticwebassets/MultiTurnPromptBot.StaticWebAssets.Manifest.cache
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/staticwebassets/MultiTurnPromptBot.StaticWebAssets.xml
+/Users/jan/Documents/GitHub/mhateam/mha-recruitment-starter/obj/Debug/netcoreapp3.1/MultiTurnPromptBot.genruntimeconfig.cache
